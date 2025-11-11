@@ -16,11 +16,6 @@ The code implements a small area estimation (SAE) with post-stratification workf
 
 ## Data Sources
 
-All external datasets are publicly available.  
-Links and access information can be added here as needed:
-
-## Data Sources
-
 The following publicly available datasets were used in this analysis:
 
 | Dataset Key | Source & Access Link | Description |

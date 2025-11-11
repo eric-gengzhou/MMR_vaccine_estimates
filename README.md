@@ -32,8 +32,8 @@ Two prediction datasets generated from the final SAE model are included in this 
 
 | File | Description |
 |-------|--------------|
-| **county_pred_final.csv** | County-level posterior mean estimates of MMR vaccine uptake (≥1 dose), along with standard errors and 95% credible intervals. Each record corresponds to a county FIPS code. |
-| **zcta_pred_final.csv** | ZIP Code Tabulation Area (ZCTA)–level predicted MMR vaccine uptake (≥1 dose) and corresponding risk classification. Each record corresponds to a ZCTA5 code. |
+| [**county_pred_final.csv**](https://github.com/eric-gengzhou/MMR_vaccine_estimates/blob/main/county_pred_final.csv) | County-level posterior mean estimates of MMR vaccine uptake (≥1 dose), along with standard errors and 95% credible intervals. Each record corresponds to a county FIPS code. |
+| [**zcta_pred_final.csv**](https://github.com/eric-gengzhou/MMR_vaccine_estimates/blob/main/zcta_pred_final.csv) | ZIP Code Tabulation Area (ZCTA)–level predicted MMR vaccine uptake (≥1 dose) and corresponding risk classification. Each record corresponds to a ZCTA5 code. |
 
-Both files are directly hosted in this repository for reproducibility and visualization purposes.  
+Both files are directly hosted in this repository for reproducibility and visualization purposes.   
 

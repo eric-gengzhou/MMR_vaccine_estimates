@@ -3,7 +3,7 @@
 This repository contains the analytic code and supplementary materials for the paper:
 
 > **Assessing MMR Vaccination Coverage Gaps in US Children with Digital Participatory Surveillance**  
-> *Eric G. Zhou, Benjamin Rader, John Brownstein., 2025 (accepted and forthcoming in Nature Health)*
+> *Eric G. Zhou, John Brownstein, Benjamin Rader, 2025 (accepted and forthcoming in Nature Health)*
 
 The code implements a small area estimation (SAE) with post-stratification workflow to generate county- and ZIP Code Tabulation Area (ZCTA)–level estimates of measles-mumps-rubella (MMR) vaccination coverage among children under five. The analysis integrates participatory surveillance data with demographic and contextual covariates to produce geographically smoothed estimates with uncertainty relfected in confidence intervals.
 
